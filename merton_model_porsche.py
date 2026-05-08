@@ -11,7 +11,7 @@ in due scenari:
   - Stress logistico: shock da iper-inflazione logistica e transizione Just-in-Case
 
 Utilizzato come supporto quantitativo alla tesi triennale:
-"Supply Chain Risk Management e Revisione Legale: Il caso Porsche AG"
+"OLTRE L’EFFICIENZA LOGISTICA: LA TRANSIZIONE STRATEGICA AL JUST-IN-CASE E GLI IMPATTI SUL VALORE D’IMPRESA NEL CASO PORSCHE AG"
 Università degli Studi di Padova - Corso di Laurea Triennale in Economia
 
 Autore: Giovanni Destro
