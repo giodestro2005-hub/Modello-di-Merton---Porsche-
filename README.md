@@ -3,7 +3,7 @@
 Implementazione Python del **Modello Strutturale di Merton (1974)** applicato al caso **Dr. Ing. h.c. F. Porsche AG**, sviluppata come supporto quantitativo alla tesi triennale:
 
 > *"OLTRE L’EFFICIENZA LOGISTICA: LA TRANSIZIONE STRATEGICA AL JUST-IN-CASE E GLI IMPATTI SUL VALORE D’IMPRESA NEL CASO PORSCHE AG"*  
-> Giovanni Destro — Università degli Studi di Padova, 2025
+> Giovanni Destro — Università degli Studi di Padova, 2025/2026
 
 ---
 
