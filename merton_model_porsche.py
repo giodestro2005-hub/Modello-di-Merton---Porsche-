@@ -15,7 +15,7 @@ Utilizzato come supporto quantitativo alla tesi triennale:
 Università degli Studi di Padova - Corso di Laurea Triennale in Economia
 
 Autore: Giovanni Destro
-Anno:   2025
+Anno accademico:   2025/2026
 
 Dipendenze:
     pip install numpy scipy matplotlib
