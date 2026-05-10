@@ -20,6 +20,12 @@ Il codice genera due grafici:
 
 ---
 
+## Documentazione matematica
+
+La derivazione matematica completa del sistema di equazioni e la metodologia di risoluzione numerica sono documentate nel file [metodo.pdf](./metodo.pdf).
+
+---
+
 ## Requisiti
 
 ```bash
