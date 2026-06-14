@@ -81,8 +81,7 @@ Una volta estratti i parametri impliciti, questa funzione applica la formula del
 ### 4. Applicazione e Stress Testing
 Lo script calcola due scenari:
 - **Scenario Baseline** — riflette la normale operatività e l'attuale capitalizzazione di mercato
-- **Scenario di Stress Logistico** — simula la transizione al Just-in-Case aumentando il debito aziendale (per finanziare l'iper-inflazione del magazzino, stimata in 6 miliardi €) e incrementando la volatilità azionaria per riflettere l'incertezza della supply chain
-
+- **Scenario di Stress Logistico** — simula uno shock esogeno sul valore degli asset di entità paragonabile a quello osservato nell'esercizio 2025: il rendimento atteso degli asset (drift) viene ridotto da +2% a −4%, valore calibrato sull'ordine di grandezza degli oneri straordinari riconosciuti a bilancio (circa 3,9 miliardi di euro, pari a circa il 6% dei ~62 miliardi di asset impliciti), e la volatilità degli asset viene raddoppiata per incorporare l'accresciuta incertezza strategica e commerciale. Default Point e valore degli asset restano invariati rispetto al baseline.
 ---
 
 ## Autore
